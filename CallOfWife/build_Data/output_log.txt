@@ -1,0 +1,108 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     1792 MB
+    Driver:   9.18.13.2702
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Okul\CallOfWife\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Okul\CallOfWife\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Okul\CallOfWife\build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Okul\CallOfWife\build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Okul\CallOfWife\build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Okul\CallOfWife\build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Okul\CallOfWife\build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Okul\CallOfWife\build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Okul\CallOfWife\build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Okul\CallOfWife\build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Okul\CallOfWife\build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Okul\CallOfWife\build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.740 seconds
+Platform assembly: C:\Okul\CallOfWife\build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Okul\CallOfWife\build_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 15.074502 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 403)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 116c -> priority: 1 
+  Thread -> id: 1a48 -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'Asker (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+A script behaviour (probably UnityEngine.Audio.AudioSpatializerMicrosoft?) has a different serialization layout when loading. (Read 32 bytes but expected 36 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1808)
+
+The referenced script on this Behaviour (Game Object 'Asker (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Asker ') is missing!
+ 
+(Filename:  Line: 1754)
+
+A script behaviour (probably UnityEngine.Audio.AudioSpatializerMicrosoft?) has a different serialization layout when loading. (Read 32 bytes but expected 36 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1808)
+
+The referenced script on this Behaviour (Game Object 'Asker ') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.370938 ms
+The AnimationClip '1HIdle' used by the Animation component 'Wife' must be marked as Legacy.
+ 
+(Filename:  Line: 2019)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 403)
+
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2117.
+Total: 2.251005 ms (FindLiveObjects: 0.114299 ms CreateObjectMapping: 0.059249 ms MarkObjects: 0.614419 ms  DeleteObjects: 1.459770 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.342205 ms
+The AnimationClip '1HIdle' used by the Animation component 'A03 (1)' must be marked as Legacy.
+ 
+(Filename:  Line: 2019)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 403)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 403)
+
+
+Unloading 379 unused Assets to reduce memory usage. Loaded Objects now: 661.
+Total: 2.745526 ms (FindLiveObjects: 0.067180 ms CreateObjectMapping: 0.039188 ms MarkObjects: 0.252859 ms  DeleteObjects: 2.385365 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LevelManagerGame.OnUnPause () [0x00000] in <filename unknown>:0 
+  at LevelManagerGame.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

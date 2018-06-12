@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 562af3dd8d9094944ae1fc9d49d41b85
+timeCreated: 1494902288
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Army Rangers Laser
+  fontNames:
+  - Army Rangers Laser
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

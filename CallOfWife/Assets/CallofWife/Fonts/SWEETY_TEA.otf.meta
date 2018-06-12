@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eb2a3e96822f49b4fb88fe42507e7390
+timeCreated: 1494902289
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SWEETY TEA
+  fontNames:
+  - SWEETY TEA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
